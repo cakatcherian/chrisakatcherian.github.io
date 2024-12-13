@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-hi bb :)<3
+# Projects
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
