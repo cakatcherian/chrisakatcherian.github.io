@@ -1,1 +1,1 @@
-<div style="text-align: center"><iframe src="https://docs.google.com/document/d/e/2PACX-1vTgbYL7v0t156a1Hbs6mQT852e1OKfGD_3cDHHwBd9NC6MH7xDgPQPSBgmmdkUIH51wI6oCEmDNVKy-/pub?embedded=true" width="1000" height="1000"></iframe></div>
+<div style="text-align: center"><iframe src="https://docs.google.com/document/d/e/2PACX-1vTgbYL7v0t156a1Hbs6mQT852e1OKfGD_3cDHHwBd9NC6MH7xDgPQPSBgmmdkUIH51wI6oCEmDNVKy-/pub?embedded=true" width="800" height="1000"></iframe></div>
