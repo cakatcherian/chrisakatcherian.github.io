@@ -39,7 +39,7 @@ In this project I played the role of a SOC analyst at a fictional organization c
 ### Summary:
 For my final project, I was tasked to work as a group with my cohort for our BOOTcon! Our final project. For this we decided to expose, demonstrate, and share mitigation strategies for 3 different exploitations. Each explotation unique as well as dangerous to sensitive information. Check it out below!  
 
-[Project 4](./https://docs.google.com/presentation/d/1enACYa0uj24ySbPv1sHLbGA2pDBzFY6Ey8znunvMnM4/edit?usp=sharing)
+[Project 4](./project4.md)
 
 
 
