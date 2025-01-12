@@ -1,28 +1,55 @@
 ---
 layout: default
 ---
+# Hello!
+Thank you for visiting my potrfolio! Below you will find all of my projects I completed during my schooling and their attached links. Please check out each project! I worked very hard!
+
+
+
 # Projects!
 
-## Project 1
 
+## Project 1: My First Web-App
 ### Summary:
 In the first project week, I built, secured, and protected a cloud application that hosts my own cyber blog. This project resulted in tangible deliverables that demonstrated my knowledge of cloud, cloud security, networking, web development, cryptography, and network security.
 
 [Project 1](./https://docs.google.com/document/d/1aNnYf-nTArG7D9u0ZJUjbyy5YX7Pshie3BWQXiVUXYw/edit?usp=sharing)
 
+
+
 ## Project 2
+### Summary:
+In this project, I was tasked by "Rekall Corp" to conduct an internal and external penetration test of its network and system. This was to expose any vulnerabilities that may exist and assess their severity. This was a CTF (Capture the Flag) activity which was very fun! What I found was alarming so check it out below!
 
 [Project 2](./https://docs.google.com/document/d/13qSqXODxdEAlLrnHvUbzYaSfPvG0P7Y3qWWewZR__xE/edit?usp=sharing)
 
+
+
 ## Project 3
+### Summary:
+In this project I played the role of a SOC analyst at a fictional organization called Virtual Space Industries (VSI). VSI has heard rumors that a competitor, JobeCorp, may launch cyberattacks to disrupt VSI's business. My task was to use the SIEM tool "Splunk" to monitor against potential attacks on VSI's systems and applications. The [Presentation](./https://docs.google.com/presentation/d/1ln3hqu-Xa0y4pbX6FmIPPxDBxOw3rBSQvzG-87Em6Go/edit?usp=sharing) is the final report so check it out!
 
 [Project 3 Review Questions](./https://docs.google.com/document/d/1RnTYZfQ0ffGSOv8P9g4EVR7DiXcApN7o3oPQkEfNjRY/edit?usp=sharing)
 
 [Project 3 Presentation](./https://docs.google.com/presentation/d/1ln3hqu-Xa0y4pbX6FmIPPxDBxOw3rBSQvzG-87Em6Go/edit?usp=sharing)
 
+
+
 ## Project 4
+### Summary:
+For my final project, I was tasked to work as a group with my cohort for our BOOTcon! Our final project. For this we decided to expose, demonstrate, and share mitigation strategies for 3 different exploitations. Each explotation unique as well as dangerous to sensitive information. Check it out below!  
 
 [Project 4](./https://docs.google.com/presentation/d/1enACYa0uj24ySbPv1sHLbGA2pDBzFY6Ey8znunvMnM4/edit?usp=sharing)
+
+
+
+
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
