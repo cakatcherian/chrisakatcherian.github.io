@@ -29,7 +29,7 @@ In this project, I was tasked by "Rekall Corp" to conduct an internal and extern
 ### Summary:
 In this project I played the role of a SOC analyst at a fictional organization called Virtual Space Industries (VSI). VSI has heard rumors that a competitor, JobeCorp, may launch cyberattacks to disrupt VSI's business. My task was to use the SIEM tool "Splunk" to monitor against potential attacks on VSI's systems and applications. The [Presentation](./Project3Presentation.md) is the final report so check it out!
 
-[Project 3 Review Questions](./https://docs.google.com/document/d/1RnTYZfQ0ffGSOv8P9g4EVR7DiXcApN7o3oPQkEfNjRY/edit?usp=sharing)
+[Project 3 Review Questions](./project3R.md)
 
 [Project 3 Presentation](./Project3Presentation.md)
 
