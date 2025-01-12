@@ -21,7 +21,7 @@ In the first project week, I built, secured, and protected a cloud application t
 ### Summary:
 In this project, I was tasked by "Rekall Corp" to conduct an internal and external penetration test of its network and system. This was to expose any vulnerabilities that may exist and assess their severity. This was a CTF (Capture the Flag) activity which was very fun! What I found was alarming so check it out below!
 
-[Project 2](./https://docs.google.com/document/d/13qSqXODxdEAlLrnHvUbzYaSfPvG0P7Y3qWWewZR__xE/edit?usp=sharing)
+[Project 2](./project2.md)
 
 
 
