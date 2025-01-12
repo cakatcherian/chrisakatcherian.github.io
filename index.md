@@ -13,7 +13,7 @@ Thank you for visiting my potrfolio! Below you will find all of my projects I co
 ### Summary:
 In the first project week, I built, secured, and protected a cloud application that hosts my own cyber blog. This project resulted in tangible deliverables that demonstrated my knowledge of cloud, cloud security, networking, web development, cryptography, and network security.
 
-[Project 1](./https://docs.google.com/document/d/1aNnYf-nTArG7D9u0ZJUjbyy5YX7Pshie3BWQXiVUXYw/edit?usp=sharing)
+[Project 1](./project1.md)
 
 
 
