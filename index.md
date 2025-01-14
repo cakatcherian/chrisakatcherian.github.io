@@ -1,13 +1,24 @@
 ---
 layout: default
 ---
-# Cybersecurity Portfolio
-Thank you for visiting my potrfolio! Below you will find all of my projects I completed during my schooling and their attached links. Please check out each project! I worked very hard!
+# Cybersecurity Professional
 
+#### Technical Skills: Python, SQL, Incident Response, SIEM Systems 
 
+## Education
 
+- Cybersecurity Professional Certificate., | University of California, Berkeley (_December 2024_)
+- B.S., Business Economics | University of California, Riverside (_February 2020_)
+
+## Work Experience 
+.
+.
+.
+.
+.
+.
+.
 # Projects!
-
 
 ## Project 1: My First Web-App
 ### Summary:
