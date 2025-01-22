@@ -12,7 +12,7 @@ layout: default
 
 ## Work Experience 
 
-### Shop Rite Liquor Store - Chino, CA
+### Shop Rite Liquor Store - Chino, CA  November 2020 - Current
 #### Small Business Owner    
 
 *   Implemented process improvement to shape organizational culture, optimize procedures for higher efficiency, and help company evolve and grow.
@@ -20,6 +20,24 @@ layout: default
 *   Promoted business via social media to generate leads and maximize brand identity.
 *   Evaluated suppliers to maintain cost controls and improve operations.
 *   Studied latest trends to add new merchandise to product lineup, improving sales revenues to $640,000
+
+### Califia Farms - Los Angeles, CA  September 2019 - March 2020
+#### Brand Ambassador    
+
+*   Increased brand awareness through event marketing, demonstrations, sales and brand promotion.
+*   Acted as face of brand at retail events and sampling opportunities at multiple locations.
+*   Designed, filled and arranged eye-catching product floorsets to increase sales.
+*   Contributed to social media content documenting brand's impact in on market.
+
+### CED Electrical Wholesale - San Bernardino, CA  June 2019 - September 2019
+#### Corporate Management Intern    
+
+*   Built and assisted with building an Ecommerce website that acquired accounts which netted CED over $100,000 in sales
+*   Led projects and analyzed data to identify opportunities for improvement
+*   Received and processed stock into inventory management system
+*   Learned new skills and applied to daily tasks to improve efficiency and productivity
+
+* * *
 
 # Projects!
 
