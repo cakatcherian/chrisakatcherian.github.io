@@ -11,13 +11,16 @@ layout: default
 -B.S., Business Economics | University of California, Riverside (_February 2020_)
 
 ## Work Experience 
-./
-./
-./
-./
-./
-./
-./
+
+### Shop Rite Liquor Store - Chino, CA
+#### Small Business Owner    
+
+-Implemented process improvement to shape organizational culture, optimize procedures for higher efficiency, and help company evolve and grow.
+-Oversaw business budget planning and administration, accounting functions, purchasing and bi-weekly payroll to handle financial needs.
+-Promoted business via social media to generate leads and maximize brand identity.
+-Evaluated suppliers to maintain cost controls and improve operations.
+-Studied latest trends to add new merchandise to product lineup, improving sales revenues to $640,000
+
 # Projects!
 
 ## Project 1: My First Web-App
