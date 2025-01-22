@@ -12,7 +12,7 @@ layout: default
 
 ## Work Experience 
 
-### Shop Rite Liquor Store - Chino, CA  November 2020 - Current
+### Shop Rite Liquor Store - Chino, CA  (_November 2020 - Current_)
 #### Small Business Owner    
 
 *   Implemented process improvement to shape organizational culture, optimize procedures for higher efficiency, and help company evolve and grow.
@@ -21,7 +21,7 @@ layout: default
 *   Evaluated suppliers to maintain cost controls and improve operations.
 *   Studied latest trends to add new merchandise to product lineup, improving sales revenues to $640,000
 
-### Califia Farms - Los Angeles, CA  September 2019 - March 2020
+### Califia Farms - Los Angeles, CA  (_September 2019 - March 2020_)
 #### Brand Ambassador    
 
 *   Increased brand awareness through event marketing, demonstrations, sales and brand promotion.
@@ -29,13 +29,22 @@ layout: default
 *   Designed, filled and arranged eye-catching product floorsets to increase sales.
 *   Contributed to social media content documenting brand's impact in on market.
 
-### CED Electrical Wholesale - San Bernardino, CA  June 2019 - September 2019
+### CED Electrical Wholesale - San Bernardino, CA  (_June 2019 - September 2019_)
 #### Corporate Management Intern    
 
 *   Built and assisted with building an Ecommerce website that acquired accounts which netted CED over $100,000 in sales
 *   Led projects and analyzed data to identify opportunities for improvement
 *   Received and processed stock into inventory management system
 *   Learned new skills and applied to daily tasks to improve efficiency and productivity
+
+### National Link - Glendora, CA (_February 2016 - March 2017_)
+#### Technical Support Specialist    
+
+*   Help Desk support and Customer Service
+*   Troubleshoot ATM issues
+*   Remotely and onsite programming of hundreds ATM units
+*   Delivered comprehensive technical support, enhancing user proficiency and system reliability.
+*   Routinely contribute to Sales and Marketing initiatives
 
 * * *
 
