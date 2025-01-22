@@ -3,7 +3,7 @@ layout: default
 ---
 # Cybersecurity Professional
 ## About Me
-Graduate '20 from the University of California, Riverside with a Business Administration and Economics B.A with a focus on managerial accounting. Results-driven Small Business Owner with forward-thinking approach centered on company success and competitive growth. Demonstrated a record of success in building successful teams and managing profitable operations.
+Graduate '20 from the University of California, Riverside with a Business Administration and Economics B.S with a focus on managerial accounting. Results-driven Small Business Owner with forward-thinking approach centered on company success and competitive growth. Demonstrated a record of success in building successful teams and managing profitable operations.
 
 Currently studying to take my COMPTIA Security+ exam and will look to acquiring more knowledge about cybersecurity. 
 
