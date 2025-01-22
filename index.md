@@ -5,7 +5,7 @@ layout: default
 
 #### Technical Skills: Python, SQL, Incident Response, SIEM Systems 
 
-## Education
+# Education
 
 -Cybersecurity Professional Certificate | University of California, Berkeley (_December 2024_)
 -B.S., Business Economics | University of California, Riverside (_February 2020_)
@@ -48,7 +48,7 @@ layout: default
 
 * * *
 
-# Projects!
+# Projects
 
 ## Project 1: My First Web-App
 ### Summary:
