@@ -18,7 +18,7 @@ Currently studying to take my COMPTIA Security+ exam and will look to acquiring 
 
 ## Work Experience 
 
-### Shop Rite Liquor Store - Chino, CA  (_November 2020 - Current_)
+### Shop Rite Market - Chino, CA  (_November 2020 - Current_)
 #### Small Business Owner    
 
 *   Implemented process improvement to shape organizational culture, optimize procedures for higher efficiency, and help company evolve and grow.
