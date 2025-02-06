@@ -3,9 +3,9 @@ layout: default
 ---
 # Cybersecurity Professional
 ## About Me
-Graduate '20 from the University of California, Riverside with a Business Administration and Economics B.S with a focus on managerial accounting. Results-driven Small Business Owner with forward-thinking approach centered on company success and competitive growth. Demonstrated a record of success in building successful teams and managing profitable operations.
-
-Currently studying to take my COMPTIA Security+ exam and will look to acquiring more knowledge about cybersecurity. 
+Acquired my certificate of completion for the Cybersecurity Bootcamp from University of California - Berkeley
+Graduate '20 from the University of California, Riverside with a Business Administration and Economics B.S with a focus on managerial accounting. Results-driven small business owner with forward-thinking approach centered on company success and competitive growth. Demonstrated a record of success in building successful teams and managing profitable operations.
+ 
 
 * * *
 
@@ -19,7 +19,7 @@ Currently studying to take my COMPTIA Security+ exam and will look to acquiring 
 ## Work Experience 
 
 ### Shop Rite Market - Chino, CA  (_November 2020 - Current_)
-#### Small Business Owner    
+#### Operations Manager    
 
 *   Implemented process improvement to shape organizational culture, optimize procedures for higher efficiency, and help company evolve and grow.
 *   Oversaw business budget planning and administration, accounting functions, purchasing and bi-weekly payroll to handle financial needs.
