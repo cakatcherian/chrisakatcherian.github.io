@@ -2,6 +2,10 @@
 layout: default
 ---
 # Cybersecurity Portfolio
+
+* * * 
+
+
 ## About Me
 Acquired my certificate of completion for the Cybersecurity Bootcamp from University of California - Berkeley
 Graduate '20 from the University of California, Riverside with a Business Administration and Economics B.S with a focus on managerial accounting. Results-driven small business owner with forward-thinking approach centered on company success and competitive growth. Demonstrated a record of success in building successful teams and managing profitable operations.
