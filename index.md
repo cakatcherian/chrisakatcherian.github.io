@@ -9,10 +9,13 @@ layout: default
 ## About Me
 -Professional cybersecurity specialist skilled in threat analysis,
 network security, and incident response.
+
 -Strong focus on team collaboration and achieving results, adapting
 to changing needs seamlessly.
+
 -Known for sharp problem-solving abilities, strategic thinking, and
 effective communication.
+
 -Expertise includes risk management, vulnerability assessments,
 and regulatory compliance.
  
