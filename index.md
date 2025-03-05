@@ -9,8 +9,10 @@ Graduate '20 from the University of California, Riverside with a Business Admini
 * * *
 
 # Certifications
--CompTIA | Security+ Certification
--ISC2 | CC
+
+-CompTIA Security+ Certification
+
+-ISC2 CC
 
 * * *
 
