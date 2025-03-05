@@ -59,7 +59,7 @@ For my final project, I was tasked to work as a group with my cohort for our BOO
 -Cybersecurity Professional Certificate | University of California, Berkeley (_December 2024_)
 -B.S., Business Economics | University of California, Riverside (_February 2020_)
 
-## Work Experience 
+# Work Experience 
 
 ### Shop Rite Market - Chino, CA  (_November 2020 - Current_)
 #### Operations Manager    
